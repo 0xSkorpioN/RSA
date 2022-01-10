@@ -1,12 +1,3 @@
-"""
-Names / IDs:
-
-Abdallah Adham      20180161
-Hashem Khaled       20180326
-Ahmed Emad          20180017
-
-"""
-
 import random
 
 # Fermat Test for Prime Numbers
